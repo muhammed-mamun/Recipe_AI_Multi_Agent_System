@@ -14,10 +14,10 @@ load_dotenv()
 
 app = FastAPI(title="Chaldal AI Multi-Agent System")
 
-# Configure CORS
+# Configure CORS - Allow all origins for production
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://localhost:8000"],  # Allow frontend origin
+    allow_origins=["*"],  # Allow all origins for now, restrict in production if needed
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
