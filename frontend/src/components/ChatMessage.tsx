@@ -1,7 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import { Bot, User } from 'lucide-react';
-import RecipeCard from './RecipeCard';
+import { RecipeCard } from './RecipeCard';
 
 interface Message {
     role: 'user' | 'agent';
