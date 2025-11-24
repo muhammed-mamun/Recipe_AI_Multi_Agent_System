@@ -66,13 +66,16 @@ def handle_request(user_query: str):
         intent = response.content.strip()
     except Exception as e:
         print(f"Error during intent classification: {e}")
+        # Get the actual model being used
+        import os
+        model_name = os.getenv("OPENROUTER_MODEL", "google/gemini-2.0-flash-exp:free")
         # Return a helpful error message
-        return """### ⚠️ Service Temporarily Unavailable
+        return f"""### ⚠️ Service Temporarily Unavailable
 
 I'm having trouble connecting to the AI service right now. This could be due to:
 
 - **API Key Issues**: The OpenRouter API key may be invalid or expired
-- **Model Availability**: The selected model (x-ai/grok-4.1-fast) may not be available
+- **Model Availability**: The selected model ({model_name}) may not be available
 - **Rate Limits**: API quota may have been exceeded
 
 **Please check:**
