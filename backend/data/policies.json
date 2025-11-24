@@ -1,0 +1,187 @@
+[
+  {
+    "category": "return_policy",
+    "title": "Return Policy",
+    "content": "No Questions Asked Return Policy: If you are dissatisfied with any item, you can return it to the delivery man at the door for a full refund.",
+    "details": {
+      "perishables": {
+        "title": "Perishables (Fish, Meat, Vegetables)",
+        "rule": "Must be reported within 24 hours if issues are found after delivery.",
+        "items": ["Fish", "Meat", "Vegetables", "Fruits"]
+      },
+      "non_perishables": {
+        "title": "Non-Perishables (Packaged Goods)",
+        "rule": "Can be returned within 7 days if unopened.",
+        "items": ["Packaged Goods", "Canned Items", "Dry Goods"]
+      },
+      "how_to_return": {
+        "methods": [
+          "Call 16716 (8 AM - 11 PM)",
+          "Use 'Issue Report' button in Order History tab",
+          "Live Chat in the app"
+        ]
+      }
+    }
+  },
+  {
+    "category": "refund_policy",
+    "title": "Refund Policy",
+    "content": "Refunds are processed based on your payment method.",
+    "details": {
+      "cash_on_delivery": {
+        "title": "Cash on Delivery",
+        "rule": "Amount is deducted from the total bill immediately",
+        "processing_time": "Instant"
+      },
+      "online_payment": {
+        "title": "Online Payment (bKash/Card)",
+        "rule": "Refunds are processed within 5-7 working days to the original payment method",
+        "processing_time": "5-7 working days"
+      },
+      "chaldal_balance": {
+        "title": "Chaldal Account Balance",
+        "rule": "Refunds can be instantly credited to your Chaldal Egg account for future purchases",
+        "processing_time": "Instant"
+      }
+    }
+  },
+  {
+    "category": "delivery_info",
+    "title": "Delivery Information",
+    "content": "We deliver in 1-hour windows from 8:00 AM to 10:00 PM.",
+    "details": {
+      "time_slots": {
+        "title": "Delivery Slots",
+        "rule": "1-hour windows from 8:00 AM to 10:00 PM",
+        "slots": [
+          "8:00 AM - 9:00 AM",
+          "9:00 AM - 10:00 AM",
+          "10:00 AM - 11:00 AM",
+          "11:00 AM - 12:00 PM",
+          "12:00 PM - 1:00 PM",
+          "1:00 PM - 2:00 PM",
+          "2:00 PM - 3:00 PM",
+          "3:00 PM - 4:00 PM",
+          "4:00 PM - 5:00 PM",
+          "5:00 PM - 6:00 PM",
+          "6:00 PM - 7:00 PM",
+          "7:00 PM - 8:00 PM",
+          "8:00 PM - 9:00 PM",
+          "9:00 PM - 10:00 PM"
+        ]
+      },
+      "express_delivery": {
+        "title": "Express Delivery",
+        "rule": "Available in select areas (delivery in 1 hour)",
+        "availability": "Select areas only"
+      },
+      "delivery_charges": {
+        "title": "Delivery Charges",
+        "free_threshold": 400,
+        "regular_charge": "৳29-49",
+        "rule": "Free for orders over ৳400 (standard offer, may vary)"
+      }
+    }
+  },
+  {
+    "category": "customer_support",
+    "title": "Customer Support",
+    "content": "Multiple ways to reach us for any assistance.",
+    "details": {
+      "hotline": {
+        "title": "Hotline",
+        "number": "16716",
+        "availability": "8 AM - 11 PM (7 days a week)"
+      },
+      "email": {
+        "title": "Email Support",
+        "address": "support@chaldal.com",
+        "response_time": "Within 24 hours"
+      },
+      "live_chat": {
+        "title": "Live Chat",
+        "availability": "Available in the app menu",
+        "hours": "8 AM - 11 PM"
+      },
+      "social_media": {
+        "facebook": "facebook.com/chaldal",
+        "instagram": "@chaldal"
+      }
+    }
+  },
+  {
+    "category": "payment_methods",
+    "title": "Payment Methods",
+    "content": "We accept multiple payment methods for your convenience.",
+    "details": {
+      "cash_on_delivery": {
+        "title": "Cash on Delivery",
+        "available": true,
+        "description": "Pay when you receive your order"
+      },
+      "bkash": {
+        "title": "bKash",
+        "available": true,
+        "description": "Pay securely with bKash mobile wallet"
+      },
+      "cards": {
+        "title": "Credit/Debit Cards",
+        "available": true,
+        "accepted": ["Visa", "Mastercard", "American Express"]
+      },
+      "chaldal_egg": {
+        "title": "Chaldal Egg Balance",
+        "available": true,
+        "description": "Use your Chaldal account balance"
+      }
+    }
+  },
+  {
+    "category": "order_tracking",
+    "title": "Order Tracking",
+    "content": "Track your order in real-time through our app.",
+    "details": {
+      "app_tracking": {
+        "title": "In-App Tracking",
+        "features": [
+          "Real-time order status",
+          "Delivery person location",
+          "Estimated delivery time",
+          "Order history"
+        ]
+      },
+      "notifications": {
+        "title": "Notifications",
+        "types": [
+          "Order confirmed",
+          "Order being prepared",
+          "Out for delivery",
+          "Delivered"
+        ]
+      }
+    }
+  },
+  {
+    "category": "faq",
+    "title": "Frequently Asked Questions",
+    "content": "Common questions and answers about our service.",
+    "details": {
+      "minimum_order": {
+        "question": "Is there a minimum order amount?",
+        "answer": "No minimum order amount. However, orders below ৳400 may have delivery charges."
+      },
+      "delivery_areas": {
+        "question": "Which areas do you deliver to?",
+        "answer": "We deliver across Dhaka, Chittagong, and other major cities. Check availability in the app."
+      },
+      "product_quality": {
+        "question": "How do you ensure product quality?",
+        "answer": "We maintain strict quality control and offer a no-questions-asked return policy."
+      },
+      "order_cancellation": {
+        "question": "Can I cancel my order?",
+        "answer": "Yes, you can cancel before the order is out for delivery. Contact 16716 or use the app."
+      }
+    }
+  }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Rice (Miniket)",
+        "price": 75,
+        "stock_quantity": 100,
+        "category": "Grains"
+    },
+    {
+        "name": "Rice (Basmati)",
+        "price": 350,
+        "stock_quantity": 50,
+        "category": "Grains"
+    },
+    {
+        "name": "Rice (Chinigura)",
+        "price": 140,
+        "stock_quantity": 80,
+        "category": "Grains"
+    },
+    {
+        "name": "Rice (Nazirshail)",
+        "price": 85,
+        "stock_quantity": 100,
+        "category": "Grains"
+    },
+    {
+        "name": "Egg",
+        "price": 12,
+        "stock_quantity": 500,
+        "category": "Dairy"
+    },
+    {
+        "name": "Potato",
+        "price": 50,
+        "stock_quantity": 200,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Onion (Deshi)",
+        "price": 110,
+        "stock_quantity": 150,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Onion (Imported)",
+        "price": 90,
+        "stock_quantity": 150,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Garlic",
+        "price": 220,
+        "stock_quantity": 50,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Ginger",
+        "price": 240,
+        "stock_quantity": 50,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Green Chili",
+        "price": 160,
+        "stock_quantity": 30,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Dry Red Chili",
+        "price": 400,
+        "stock_quantity": 20,
+        "category": "Spices"
+    },
+    {
+        "name": "Chicken (Broiler)",
+        "price": 210,
+        "stock_quantity": 50,
+        "category": "Meat"
+    },
+    {
+        "name": "Chicken (Sonali)",
+        "price": 340,
+        "stock_quantity": 30,
+        "category": "Meat"
+    },
+    {
+        "name": "Chicken (Deshi)",
+        "price": 550,
+        "stock_quantity": 20,
+        "category": "Meat"
+    },
+    {
+        "name": "Beef",
+        "price": 780,
+        "stock_quantity": 40,
+        "category": "Meat"
+    },
+    {
+        "name": "Mutton",
+        "price": 1100,
+        "stock_quantity": 10,
+        "category": "Meat"
+    },
+    {
+        "name": "Duck (Hash)",
+        "price": 650,
+        "stock_quantity": 15,
+        "category": "Meat"
+    },
+    {
+        "name": "Moong Dal",
+        "price": 140,
+        "stock_quantity": 60,
+        "category": "Grains"
+    },
+    {
+        "name": "Masoor Dal",
+        "price": 130,
+        "stock_quantity": 80,
+        "category": "Grains"
+    },
+    {
+        "name": "Booter Dal",
+        "price": 110,
+        "stock_quantity": 50,
+        "category": "Grains"
+    },
+    {
+        "name": "Soybean Oil",
+        "price": 165,
+        "stock_quantity": 100,
+        "category": "Essentials"
+    },
+    {
+        "name": "Mustard Oil",
+        "price": 260,
+        "stock_quantity": 80,
+        "category": "Essentials"
+    },
+    {
+        "name": "Olive Oil",
+        "price": 450,
+        "stock_quantity": 20,
+        "category": "Essentials"
+    },
+    {
+        "name": "Ghee",
+        "price": 950,
+        "stock_quantity": 20,
+        "category": "Essentials"
+    },
+    {
+        "name": "Tomato",
+        "price": 60,
+        "stock_quantity": 100,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Salt",
+        "price": 40,
+        "stock_quantity": 200,
+        "category": "Essentials"
+    },
+    {
+        "name": "Sugar",
+        "price": 140,
+        "stock_quantity": 100,
+        "category": "Essentials"
+    },
+    {
+        "name": "Brown Sugar",
+        "price": 180,
+        "stock_quantity": 50,
+        "category": "Essentials"
+    },
+    {
+        "name": "Cumin Powder",
+        "price": 850,
+        "stock_quantity": 30,
+        "category": "Spices"
+    },
+    {
+        "name": "Red Chili Powder",
+        "price": 480,
+        "stock_quantity": 40,
+        "category": "Spices"
+    },
+    {
+        "name": "Turmeric Powder",
+        "price": 260,
+        "stock_quantity": 50,
+        "category": "Spices"
+    },
+    {
+        "name": "Coriander Powder",
+        "price": 300,
+        "stock_quantity": 40,
+        "category": "Spices"
+    },
+    {
+        "name": "Garam Masala",
+        "price": 65,
+        "stock_quantity": 100,
+        "category": "Spices"
+    },
+    {
+        "name": "Cinnamon (Darchini)",
+        "price": 15,
+        "stock_quantity": 100,
+        "category": "Spices"
+    },
+    {
+        "name": "Cardamom (Elachi)",
+        "price": 30,
+        "stock_quantity": 100,
+        "category": "Spices"
+    },
+    {
+        "name": "Cloves (Lobongo)",
+        "price": 40,
+        "stock_quantity": 100,
+        "category": "Spices"
+    },
+    {
+        "name": "Bay Leaves (Tejpata)",
+        "price": 20,
+        "stock_quantity": 100,
+        "category": "Spices"
+    },
+    {
+        "name": "Black Pepper (Golmorich)",
+        "price": 90,
+        "stock_quantity": 100,
+        "category": "Spices"
+    },
+    {
+        "name": "Five Spices (Panch Phoron)",
+        "price": 35,
+        "stock_quantity": 100,
+        "category": "Spices"
+    },
+    {
+        "name": "Flour (Atta)",
+        "price": 55,
+        "stock_quantity": 100,
+        "category": "Grains"
+    },
+    {
+        "name": "Flour (Maida)",
+        "price": 70,
+        "stock_quantity": 100,
+        "category": "Grains"
+    },
+    {
+        "name": "Semolina (Suji)",
+        "price": 45,
+        "stock_quantity": 80,
+        "category": "Grains"
+    },
+    {
+        "name": "Cornflower",
+        "price": 60,
+        "stock_quantity": 50,
+        "category": "Grains"
+    },
+    {
+        "name": "Hilsa Fish",
+        "price": 1650,
+        "stock_quantity": 10,
+        "category": "Fish"
+    },
+    {
+        "name": "Rui Fish",
+        "price": 350,
+        "stock_quantity": 20,
+        "category": "Fish"
+    },
+    {
+        "name": "Katla Fish",
+        "price": 380,
+        "stock_quantity": 20,
+        "category": "Fish"
+    },
+    {
+        "name": "Koi Fish",
+        "price": 300,
+        "stock_quantity": 25,
+        "category": "Fish"
+    },
+    {
+        "name": "Shrimp (Chingri)",
+        "price": 700,
+        "stock_quantity": 15,
+        "category": "Fish"
+    },
+    {
+        "name": "Tilapia",
+        "price": 200,
+        "stock_quantity": 30,
+        "category": "Fish"
+    },
+    {
+        "name": "Pangash Fish",
+        "price": 160,
+        "stock_quantity": 30,
+        "category": "Fish"
+    },
+    {
+        "name": "Pabda Fish",
+        "price": 550,
+        "stock_quantity": 15,
+        "category": "Fish"
+    },
+    {
+        "name": "Shing Fish",
+        "price": 650,
+        "stock_quantity": 15,
+        "category": "Fish"
+    },
+    {
+        "name": "Magur Fish",
+        "price": 700,
+        "stock_quantity": 10,
+        "category": "Fish"
+    },
+    {
+        "name": "Tangra Fish",
+        "price": 500,
+        "stock_quantity": 15,
+        "category": "Fish"
+    },
+    {
+        "name": "Silver Carp",
+        "price": 180,
+        "stock_quantity": 20,
+        "category": "Fish"
+    },
+    {
+        "name": "Bottle Gourd (Lau)",
+        "price": 50,
+        "stock_quantity": 40,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Sweet Pumpkin",
+        "price": 40,
+        "stock_quantity": 50,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Carrot",
+        "price": 80,
+        "stock_quantity": 60,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Spinach (Palong Shak)",
+        "price": 20,
+        "stock_quantity": 50,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Red Spinach (Lal Shak)",
+        "price": 15,
+        "stock_quantity": 50,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Eggplant (Begun)",
+        "price": 70,
+        "stock_quantity": 60,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Cauliflower",
+        "price": 45,
+        "stock_quantity": 40,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Cabbage",
+        "price": 40,
+        "stock_quantity": 40,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Cucumber",
+        "price": 60,
+        "stock_quantity": 50,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Lemon",
+        "price": 30,
+        "stock_quantity": 100,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Coriander Leaves",
+        "price": 20,
+        "stock_quantity": 50,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Okra (Dherosh)",
+        "price": 60,
+        "stock_quantity": 40,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Pointed Gourd (Potol)",
+        "price": 50,
+        "stock_quantity": 40,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Bitter Gourd (Korola)",
+        "price": 70,
+        "stock_quantity": 30,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Green Papaya",
+        "price": 40,
+        "stock_quantity": 30,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Green Banana (Kacha Kola)",
+        "price": 30,
+        "stock_quantity": 40,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Bean (Sim)",
+        "price": 80,
+        "stock_quantity": 40,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Radish (Mula)",
+        "price": 30,
+        "stock_quantity": 40,
+        "category": "Vegetables"
+    },
+    {
+        "name": "Banana (Sagor)",
+        "price": 40,
+        "stock_quantity": 100,
+        "category": "Fruits"
+    },
+    {
+        "name": "Apple (Gala)",
+        "price": 280,
+        "stock_quantity": 50,
+        "category": "Fruits"
+    },
+    {
+        "name": "Orange (Malta)",
+        "price": 220,
+        "stock_quantity": 50,
+        "category": "Fruits"
+    },
+    {
+        "name": "Pomegranate (Dalim)",
+        "price": 350,
+        "stock_quantity": 30,
+        "category": "Fruits"
+    },
+    {
+        "name": "Guava",
+        "price": 80,
+        "stock_quantity": 50,
+        "category": "Fruits"
+    },
+    {
+        "name": "Papaya (Ripe)",
+        "price": 120,
+        "stock_quantity": 30,
+        "category": "Fruits"
+    },
+    {
+        "name": "Pasta",
+        "price": 120,
+        "stock_quantity": 50,
+        "category": "Packaged"
+    },
+    {
+        "name": "Noodles (Stick)",
+        "price": 40,
+        "stock_quantity": 100,
+        "category": "Packaged"
+    },
+    {
+        "name": "Instant Noodles (Maggi)",
+        "price": 70,
+        "stock_quantity": 100,
+        "category": "Packaged"
+    },
+    {
+        "name": "Bread",
+        "price": 60,
+        "stock_quantity": 50,
+        "category": "Bakery"
+    },
+    {
+        "name": "Milk (Liquid)",
+        "price": 90,
+        "stock_quantity": 50,
+        "category": "Dairy"
+    },
+    {
+        "name": "Powder Milk",
+        "price": 850,
+        "stock_quantity": 30,
+        "category": "Dairy"
+    },
+    {
+        "name": "Butter",
+        "price": 450,
+        "stock_quantity": 20,
+        "category": "Dairy"
+    },
+    {
+        "name": "Tea Leaves",
+        "price": 480,
+        "stock_quantity": 50,
+        "category": "Beverage"
+    },
+    {
+        "name": "Tea Bags",
+        "price": 90,
+        "stock_quantity": 50,
+        "category": "Beverage"
+    },
+    {
+        "name": "Coffee",
+        "price": 180,
+        "stock_quantity": 40,
+        "category": "Beverage"
+    },
+    {
+        "name": "Biscuit (Toast)",
+        "price": 60,
+        "stock_quantity": 50,
+        "category": "Bakery"
+    },
+    {
+        "name": "Biscuit (Salted)",
+        "price": 30,
+        "stock_quantity": 50,
+        "category": "Bakery"
+    },
+    {
+        "name": "Chanachur",
+        "price": 65,
+        "stock_quantity": 50,
+        "category": "Snacks"
+    },
+    {
+        "name": "Puffed Rice (Muri)",
+        "price": 55,
+        "stock_quantity": 50,
+        "category": "Snacks"
+    },
+    {
+        "name": "Flattened Rice (Chira)",
+        "price": 80,
+        "stock_quantity": 40,
+        "category": "Snacks"
+    },
+    {
+        "name": "Vermicelli (Semai)",
+        "price": 45,
+        "stock_quantity": 50,
+        "category": "Snacks"
+    },
+    {
+        "name": "Tomato Sauce",
+        "price": 120,
+        "stock_quantity": 40,
+        "category": "Condiments"
+    },
+    {
+        "name": "Soy Sauce",
+        "price": 110,
+        "stock_quantity": 40,
+        "category": "Condiments"
+    },
+    {
+        "name": "Vinegar",
+        "price": 80,
+        "stock_quantity": 40,
+        "category": "Condiments"
+    },
+    {
+        "name": "Condensed Milk",
+        "price": 85,
+        "stock_quantity": 50,
+        "category": "Dairy"
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "title": "Old Dhaka Beef Tehari",
+        "description": "Aromatic mustard-oil based pilaf cooked with small beef chunks. A signature dish of Old Dhaka.",
+        "ingredients": [
+            "Rice (Chinigura)",
+            "Beef",
+            "Mustard Oil",
+            "Green Chili",
+            "Milk (Liquid)"
+        ],
+        "instructions": "Cut beef into small cubes and cook with ginger, garlic, and green chilies. The key is using Mustard Oil instead of ghee for that pungent Tehari smell. Add the aromatic Chinigura rice to the meat gravy. Add water/milk, seal the pot, and cook on 'dum' (low heat) for 20 mins."
+    },
+    {
+        "title": "Rui Macher Dopeyaja",
+        "description": "River Carp (Rui) cooked in a rich, thick gravy with lots of onions (Dopeyaja).",
+        "ingredients": [
+            "Rui Fish",
+            "Onion (Deshi)",
+            "Tomato",
+            "Green Chili",
+            "Turmeric Powder"
+        ],
+        "instructions": "Rub fish with turmeric and salt, then fry lightly in oil. In the same oil, sauté a generous amount of sliced onions. Add tomatoes and spices, cooking until oil separates. Add the fried fish and simmer gently. Garnish with fresh coriander."
+    },
+    {
+        "title": "Biye Barir Chicken Roast",
+        "description": "Rich, mild, and creamy chicken roast served at Bangladeshi weddings.",
+        "ingredients": [
+            "Chicken (Sonali)",
+            "Milk (Liquid)",
+            "Ghee",
+            "Onion (Deshi)",
+            "Cardamom (Elachi)"
+        ],
+        "instructions": "Score the chicken leg pieces and fry them until golden brown. Make a gravy with onion paste, spices, and milk (to replace yogurt/cream). Cook chicken in the white gravy. Finish with a spoonful of Ghee and sugar. The taste should be savory with a hint of sweetness."
+    },
+    {
+        "title": "Patla Khichuri (Runny Khichuri)",
+        "description": "Rice and lentils cooked together with turmeric and ginger. Best for rainy days.",
+        "ingredients": [
+            "Rice (Miniket)",
+            "Masoor Dal",
+            "Turmeric Powder",
+            "Mustard Oil"
+        ],
+        "instructions": "Wash rice and dal together. Boil with plenty of water, turmeric, salt, and ginger paste. Once soft and runny, temper (baghar) with fried onions and dry red chilies in mustard oil."
+    },
+    {
+        "title": "Aloo Bhorta (Mashed Potato)",
+        "description": "Boiled potatoes mashed with mustard oil, fried onions, and dry chilies.",
+        "ingredients": [
+            "Potato",
+            "Mustard Oil",
+            "Dry Red Chili",
+            "Onion (Deshi)"
+        ],
+        "instructions": "Boil potatoes until very soft and peel them. Fry dry red chilies in a little oil until crisp. Mash everything together by hand with salt and raw or fried onions. Finish with a drizzle of raw mustard oil."
+    },
+    {
+        "title": "Panch Mishali Sabji (Mixed Veg)",
+        "description": "A healthy mix of seasonal vegetables cooked with five-spices (panch phoron).",
+        "ingredients": [
+            "Potato",
+            "Carrot",
+            "Cauliflower",
+            "Bean (Sim)",
+            "Five Spices (Panch Phoron)"
+        ],
+        "instructions": "Cut all vegetables into cubes. Heat oil and add panch phoron (five spices). Add vegetables, turmeric, and salt. Stir fry. Cover and cook on low heat until tender (add little water if needed)."
+    },
+    {
+        "title": "Dimer Omelette Curry",
+        "description": "Fried egg omelettes cut into squares and simmered in a spicy gravy.",
+        "ingredients": [
+            "Egg",
+            "Potato",
+            "Onion (Imported)",
+            "Cumin Powder"
+        ],
+        "instructions": "Whisk eggs with onion and chili, fry as a thick omelette, and cut into squares. Fry potato cubes. Make a gravy with onion paste and spices. Add fried potatoes and omelette pieces, simmer for 5 mins."
+    },
+    {
+        "title": "Sujir Halwa (Semolina Dessert)",
+        "description": "A classic Bengali dessert made with semolina, ghee, and sugar.",
+        "ingredients": [
+            "Semolina (Suji)",
+            "Sugar",
+            "Ghee",
+            "Cardamom (Elachi)"
+        ],
+        "instructions": "Roast semolina (suji) in ghee until light brown and fragrant. Add cardamom and sugar. Slowly pour in hot water (or milk for richness) while stirring continuously. Cook until water is absorbed and halwa leaves the sides of the pan."
+    },
+    {
+        "title": "Begun Bhaji (Fried Eggplant)",
+        "description": "Thick slices of eggplant marinated in turmeric and fried until crispy and soft.",
+        "ingredients": [
+            "Eggplant (Begun)",
+            "Turmeric Powder",
+            "Red Chili Powder",
+            "Soybean Oil"
+        ],
+        "instructions": "Cut eggplant into thick round slices. Rub with salt, turmeric, and a pinch of sugar. Shallow fry in hot oil until deep brown and soft inside."
+    },
+    {
+        "title": "Beef Bhuna",
+        "description": "Spicy, dry beef curry cooked with lots of onions and roasted spices.",
+        "ingredients": [
+            "Beef",
+            "Onion (Deshi)",
+            "Garlic",
+            "Cumin Powder",
+            "Garam Masala"
+        ],
+        "instructions": "Mix beef with ginger-garlic paste, yogurt (optional), and all spices. Sauté onions in oil until golden. Add beef and cook on high heat to seal juices. Cover and cook on low heat for 45-60 mins until tender and oil floats on top."
+    },
+    {
+        "title": "Luchi & Alur Dom",
+        "description": "Puffy deep-fried bread (Luchi) served with spicy potato curry.",
+        "ingredients": [
+            "Flour (Maida)",
+            "Potato",
+            "Soybean Oil",
+            "Cumin Powder"
+        ],
+        "instructions": "Dough: Mix flour, oil, salt, and water. Knead and roll into small circles. Alur Dom: Boiled potatoes cooked in a tomato-ginger gravy. Deep fry the Luchi in hot oil until they puff up."
+    },
+    {
+        "title": "Hasher Mangsho (Duck Curry)",
+        "description": "Rich and spicy duck curry with skin-on, a winter delicacy in Bangladesh.",
+        "ingredients": [
+            "Duck (Hash)",
+            "Garlic",
+            "Red Chili Powder",
+            "Garam Masala"
+        ],
+        "instructions": "Duck meat is tough, so marinate with ginger-garlic paste for 1 hour. Fry plenty of onions and garlic. Cook the meat with spices on low heat for a long time (koshano). The curry is ready when the oil separates and meat is tender."
+    },
+    {
+        "title": "Egg Noodles (Bangladeshi Style)",
+        "description": "Stir-fried stick noodles with eggs, vegetables, and green chilies.",
+        "ingredients": [
+            "Noodles (Stick)",
+            "Egg",
+            "Carrot",
+            "Onion (Imported)"
+        ],
+        "instructions": "Boil noodles and set aside. Scramble eggs with onions and chilies. Add julienned carrots and stir fry. Mix in noodles and serve hot."
+    },
+    {
+        "title": "Shing Macher Jhol (Catfish Stew)",
+        "description": "Light and healthy fish stew with raw papaya or potato. Good for digestion.",
+        "ingredients": [
+            "Shing Fish",
+            "Green Papaya",
+            "Cumin Powder",
+            "Turmeric Powder"
+        ],
+        "instructions": "Clean Shing fish thoroughly. Sauté cumin paste and turmeric. Add cut papaya/potatoes and water. Add raw fish (don't fry for healthy version) and simmer until veg is soft."
+    },
+    {
+        "title": "Masoor Dal Chorchori",
+        "description": "Dry lentil curry, not soupy. Eaten with rice or roti.",
+        "ingredients": [
+            "Masoor Dal",
+            "Onion (Deshi)",
+            "Tomato",
+            "Coriander Leaves"
+        ],
+        "instructions": "Soak dal for 15 mins. Fry sliced onions and tomatoes. Add dal and little water (just enough to cook grains). Cook until water evaporates and dal is soft but holds shape."
+    }
+]

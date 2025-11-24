@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+phidata
+langchain
+langchain-community
+langchain-openai
+supabase
+psycopg2-binary
+python-dotenv
+openai
+fastembed

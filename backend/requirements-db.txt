@@ -1,0 +1,7 @@
+psycopg2-binary>=2.9.3
+python-dotenv>=0.19.2
+supabase>=1.0.3
+langchain-community>=0.0.15
+fastembed>=0.2.0
+python-multipart>=0.0.5
+httpx>=0.23.0
