@@ -1,6 +1,6 @@
 import type { ChatResponse } from '../types';
 
-const API_URL = 'http://localhost:8000';
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 
 export async function sendChatMessage(message: string): Promise<ChatResponse> {
     try {
