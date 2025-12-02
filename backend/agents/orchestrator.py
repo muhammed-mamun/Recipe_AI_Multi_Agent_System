@@ -8,7 +8,7 @@ def get_orchestrator_agent():
     return Agent(
         name="Orchestrator",
         model=get_model(),
-        description="You are a friendly AI assistant for Chaldal - Bangladesh's leading online grocery platform. You help customers with recipes, products, and support.",
+        description="You are a friendly AI assistant for recipe - Bangladesh's leading online grocery platform. You help customers with recipes, products, and support.",
         instructions=[
             "If the user asks about cooking, recipes, or mentions ingredients they have, route to the Chef Logic.",
             "If the user asks about policies, delivery, refunds, or support, route to the Support Agent.",
@@ -85,7 +85,7 @@ I'm having trouble connecting to the AI service right now. This could be due to:
 
 **Meanwhile, you can:**
 - 📞 Call **16716** for immediate assistance
-- 🌐 Visit **chaldal.com** to browse products
+- 🌐 Visit **recipe.com** to browse products
 - 📱 Use our mobile app
 
 Sorry for the inconvenience! 😊"""

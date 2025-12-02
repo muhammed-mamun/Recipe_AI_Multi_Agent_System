@@ -1,4 +1,4 @@
-# Chaldal AI Multi-Agent System - Setup and Fixes
+# recipe AI Multi-Agent System - Setup and Fixes
 
 ## Issues Found and Fixed
 
@@ -52,7 +52,7 @@ load_dotenv(os.path.join(backend_dir, '.env'))
 ### Step 2: Seed Data
 After creating the tables, run:
 ```bash
-cd /home/mamunhossain/Projects/chaldal/Chaldal_AI_Multi_Agent_System
+cd /home/mamunhossain/Projects/recipe/recipe_AI_Multi_Agent_System
 source venv/bin/activate
 python backend/scripts/seed_data.py
 ```
@@ -121,7 +121,7 @@ curl -X POST http://localhost:8000/chat \
 
 **AI Response**:
 ```
-### Chaldal Return Policy
+### recipe Return Policy
 
 - **No Questions Asked**: Return any item to the delivery person at the door for a full refund if dissatisfied.
 - **Perishables** (Fish, Meat, Veg): Report issues within 24 hours of delivery.
@@ -148,10 +148,10 @@ For availability in your area, check the app or call 16716.
 
 **AI Response**:
 ```
-Hi! You can contact Chaldal Customer Support via:
+Hi! You can contact recipe Customer Support via:
 
 - **Hotline**: 16716 (Available 8 AM - 11 PM)
-- **Email**: support@chaldal.com
+- **Email**: support@recipe.com
 - **Live Chat**: Available in the app menu
 ```
 
@@ -173,14 +173,14 @@ The system automatically classifies queries into:
 
 ### Start Backend:
 ```bash
-cd /home/mamunhossain/Projects/chaldal/Chaldal_AI_Multi_Agent_System
+cd /home/mamunhossain/Projects/recipe/recipe_AI_Multi_Agent_System
 source venv/bin/activate
 python -m uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
 ### Start Frontend (in another terminal):
 ```bash
-cd /home/mamunhossain/Projects/chaldal/Chaldal_AI_Multi_Agent_System/frontend
+cd /home/mamunhossain/Projects/recipe/recipe_AI_Multi_Agent_System/frontend
 npm run dev
 ```
 

@@ -1,4 +1,4 @@
-# Chaldal AI Multi-Agent System
+# recipe AI Multi-Agent System
 
 ## Prerequisites
 

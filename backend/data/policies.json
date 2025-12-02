@@ -38,9 +38,9 @@
         "rule": "Refunds are processed within 5-7 working days to the original payment method",
         "processing_time": "5-7 working days"
       },
-      "chaldal_balance": {
-        "title": "Chaldal Account Balance",
-        "rule": "Refunds can be instantly credited to your Chaldal Egg account for future purchases",
+      "recipe_balance": {
+        "title": "recipe Account Balance",
+        "rule": "Refunds can be instantly credited to your recipe Egg account for future purchases",
         "processing_time": "Instant"
       }
     }
@@ -95,7 +95,7 @@
       },
       "email": {
         "title": "Email Support",
-        "address": "support@chaldal.com",
+        "address": "support@recipe.com",
         "response_time": "Within 24 hours"
       },
       "live_chat": {
@@ -104,8 +104,8 @@
         "hours": "8 AM - 11 PM"
       },
       "social_media": {
-        "facebook": "facebook.com/chaldal",
-        "instagram": "@chaldal"
+        "facebook": "facebook.com/recipe",
+        "instagram": "@recipe"
       }
     }
   },
@@ -129,10 +129,10 @@
         "available": true,
         "accepted": ["Visa", "Mastercard", "American Express"]
       },
-      "chaldal_egg": {
-        "title": "Chaldal Egg Balance",
+      "recipe_egg": {
+        "title": "recipe Egg Balance",
         "available": true,
-        "description": "Use your Chaldal account balance"
+        "description": "Use your recipe account balance"
       }
     }
   },

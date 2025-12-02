@@ -153,7 +153,7 @@ def verify_data():
 
 def main():
     print("\n" + "="*80)
-    print("🚀 CHALDAL AI SYSTEM SETUP")
+    print("🚀 recipe AI SYSTEM SETUP")
     print("="*80)
     
     # Check if tables exist
@@ -174,7 +174,7 @@ def main():
         print("\n" + "="*80)
         print("🎉 SETUP COMPLETE!")
         print("="*80)
-        print("\n✅ Your Chaldal AI system is ready!")
+        print("\n✅ Your recipe AI system is ready!")
         print("✅ Customers can now ask for recipe suggestions")
         print("✅ The system will check inventory and suggest products")
         print("\nTest with queries like:")

@@ -9,7 +9,7 @@ This document showcases the dramatic improvement in AI responses after implement
 
 ### ❌ BEFORE (Plain)
 ```
-### Chaldal Return Policy
+### recipe Return Policy
 
 - "No Questions Asked" Return Policy: If you are dissatisfied with any item, 
   you can return it to the delivery man at the door for a full refund.
@@ -26,7 +26,7 @@ For assistance, contact us anytime! 😊
 ```
 ### Our "No Questions Asked" Return Policy 😊🛍️
 
-Hi there! We're all about making your shopping experience hassle-free at Chaldal. 
+Hi there! We're all about making your shopping experience hassle-free at recipe. 
 If you're not completely satisfied with your order, here's how our **super simple 
 return policy** works:
 
@@ -86,12 +86,12 @@ Hi there! 😊 Sorry if you're dealing with a return—let's get this sorted qui
 - **What to Expect**: You'll receive a confirmation once it's initiated, and 
   the funds should reflect in your bKash wallet soon after.
 
-If it's urgent, you can opt for an **instant credit to your Chaldal account** 
+If it's urgent, you can opt for an **instant credit to your recipe account** 
 for future purchases! 🎉
 
 **Need help tracking it?**  
 📞 Call **16716** (8 AM - 11 PM)  
-✉️ Email: support@chaldal.com  
+✉️ Email: support@recipe.com  
 💬 Live Chat in the app  
 
 We're here to help—let me know if there's anything else! 🛍️
@@ -121,7 +121,7 @@ just let me know!
 ```
 Hi there! 😊  
 
-I'm here to make your Chaldal shopping super easy and fun! I can help with:  
+I'm here to make your recipe shopping super easy and fun! I can help with:  
 - **Recipes & cooking ideas** 👨‍🍳 (tell me what ingredients you have!)  
 - **Product prices, availability & recommendations** 🛍️  
 - **Delivery, refunds, or any support questions** 📦  
@@ -220,10 +220,10 @@ Return Policy**. Here's what to do:
 - **Cash on Delivery:** Deducted from your total bill immediately ✅.
 - **Online Payment** (bKash/Card): Processed in **5-7 working days** to your 
   original method.
-- **Chaldal Balance:** Instant credit to your account for future shopping 🎉.
+- **recipe Balance:** Instant credit to your account for future shopping 🎉.
 
 We'll guide you through every step! Reply here or contact us via **Live Chat** 
-in the app, **support@chaldal.com** ✉️, or **16716**.
+in the app, **support@recipe.com** ✉️, or **16716**.
 
 **How else can we help today? 😊** 🛍️
 ```

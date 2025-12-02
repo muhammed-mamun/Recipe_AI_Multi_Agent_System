@@ -8,7 +8,7 @@ export function Header() {
                     <div className="flex items-center space-x-8">
                         <div className="flex items-center">
                             <ShoppingCart className="h-8 w-8 text-white" />
-                            <span className="ml-2 text-2xl font-bold text-white">Chaldal</span>
+                            <span className="ml-2 text-2xl font-bold text-white">recipe</span>
                         </div>
                     </div>
 

@@ -31,6 +31,6 @@ def get_model():
         base_url="https://openrouter.ai/api/v1",
         extra_headers={
             "HTTP-Referer": "http://localhost:3000",  # Required by OpenRouter
-            "X-Title": "Chaldal AI Multi-Agent System"  # Optional but recommended
+            "X-Title": "recipe AI Multi-Agent System"  # Optional but recommended
         }
     )

@@ -45,7 +45,7 @@ END; $$;
 
 ### 2. Load Data (2 min)
 ```bash
-cd /home/mamunhossain/Projects/chaldal/Chaldal_AI_Multi_Agent_System
+cd /home/mamunhossain/Projects/recipe/recipe_AI_Multi_Agent_System
 source venv/bin/activate
 python backend/scripts/setup_complete_system.py
 ```
@@ -56,7 +56,7 @@ python backend/scripts/setup_complete_system.py
 
 ### Start Backend
 ```bash
-cd /home/mamunhossain/Projects/chaldal/Chaldal_AI_Multi_Agent_System
+cd /home/mamunhossain/Projects/recipe/recipe_AI_Multi_Agent_System
 source venv/bin/activate
 python -m uvicorn backend.main:app --reload --port 8000
 ```

@@ -1,5 +1,5 @@
 -- ============================================
--- CHALDAL AI MULTI-AGENT SYSTEM DATABASE
+-- recipe AI MULTI-AGENT SYSTEM DATABASE
 -- Complete Schema with Vector Embeddings
 -- ============================================
 
@@ -182,7 +182,7 @@ WHERE content_type = 'faq';
 -- ============================================
 DO $$ 
 BEGIN 
-  RAISE NOTICE '✅ Chaldal AI Database Schema Created Successfully!';
+  RAISE NOTICE '✅ recipe AI Database Schema Created Successfully!';
   RAISE NOTICE '✅ Tables: products, knowledge_base, documents';
   RAISE NOTICE '✅ Vector Search: search_knowledge() function ready';
   RAISE NOTICE '✅ Ready for AI-powered semantic search!';

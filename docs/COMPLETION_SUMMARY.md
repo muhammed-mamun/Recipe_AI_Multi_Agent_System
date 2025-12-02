@@ -2,7 +2,7 @@
 
 ## ✅ ALL TASKS COMPLETED!
 
-I've successfully built a complete AI Multi-Agent System for Chaldal that can handle customer queries in natural, conversational ways!
+I've successfully built a complete AI Multi-Agent System for recipe that can handle customer queries in natural, conversational ways!
 
 ---
 
@@ -102,7 +102,7 @@ Return policy: Call 16716 for returns.
 ```
 ### Our "No Questions Asked" Return Policy 😊🛍️
 
-Hi there! We're all about making your shopping hassle-free at Chaldal.
+Hi there! We're all about making your shopping hassle-free at recipe.
 
 #### 🔄 **General Returns**
 - **Return any item** to the delivery person **right at your door** 

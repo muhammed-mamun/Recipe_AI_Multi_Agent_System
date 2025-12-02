@@ -75,7 +75,7 @@ $$;
 Run this command in your terminal:
 
 ```bash
-cd /home/mamunhossain/Projects/chaldal/Chaldal_AI_Multi_Agent_System
+cd /home/mamunhossain/Projects/recipe/recipe_AI_Multi_Agent_System
 source venv/bin/activate
 python backend/scripts/setup_complete_system.py
 ```
@@ -98,7 +98,7 @@ Restart the backend server:
 pkill -f uvicorn
 
 # Start fresh
-cd /home/mamunhossain/Projects/chaldal/Chaldal_AI_Multi_Agent_System
+cd /home/mamunhossain/Projects/recipe/recipe_AI_Multi_Agent_System
 source venv/bin/activate
 python -m uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
 ```

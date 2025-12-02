@@ -111,7 +111,7 @@ export function ChatInterface() {
                                             <ChefHat className="h-5 w-5 text-white" />
                                         </div>
                                         <div>
-                                            <h3 className="text-white font-bold text-lg">Chaldal AI Assistant</h3>
+                                            <h3 className="text-white font-bold text-lg">recipe AI Assistant</h3>
                                             <p className="text-orange-50 text-sm">Recipe suggestions & product queries</p>
                                         </div>
                                     </div>
@@ -332,7 +332,7 @@ export function ChatInterface() {
                                 onClick={() => messages.length > 0 && setIsOpen(true)}
                                 placeholder={dietaryPreferences.length > 0
                                     ? `Ask for ${dietaryPreferences.join(', ')} recipes...`
-                                    : "Ask Chaldal AI anything - recipes, products, cooking tips..."}
+                                    : "Ask recipe AI anything - recipes, products, cooking tips..."}
                                 className="flex-1 py-2.5 px-4 bg-transparent text-gray-800 placeholder-gray-400 focus:outline-none text-sm font-medium"
                                 disabled={isLoading}
                             />

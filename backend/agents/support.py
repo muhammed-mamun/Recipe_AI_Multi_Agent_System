@@ -11,7 +11,7 @@ SUPPORT_KNOWLEDGE = """
 [REFUND POLICY]
 - Cash on Delivery: The amount is deducted from the total bill immediately.
 - Online Payment (Bkash/Card): Refunds are processed within 5-7 working days to the original payment method.
-- Chaldal Account Balance: Refunds can be instantly credited to your Chaldal Egg account for future purchases.
+- recipe Account Balance: Refunds can be instantly credited to your recipe Egg account for future purchases.
 
 [DELIVERY INFO]
 - Slots: We deliver in 1-hour windows from 8:00 AM to 10:00 PM.
@@ -20,7 +20,7 @@ SUPPORT_KNOWLEDGE = """
 
 [CUSTOMER SUPPORT]
 - Hotline: 16716 (Available 8 AM - 11 PM)
-- Email: support@chaldal.com
+- Email: support@recipe.com
 - Live Chat: Available in the app menu.
 """
 
@@ -28,7 +28,7 @@ def get_support_agent():
     return Agent(
         name="Support Agent",
         model=get_model(),
-        description="You are a helpful, friendly, and professional Customer Support Agent for Chaldal.",
+        description="You are a helpful, friendly, and professional Customer Support Agent for recipe.",
         instructions=[
             "You answer questions about policies, delivery, refunds, and support.",
             "Use the provided knowledge base to answer accurately.",

@@ -6,7 +6,7 @@ import { Header } from "@/components/Header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Chaldal AI Chef",
+    title: "recipe AI Chef",
     description: "Your personal cooking assistant",
 };
 

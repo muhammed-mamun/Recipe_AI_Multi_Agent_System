@@ -89,7 +89,7 @@ $$;
 ### Step 2: Load All Data
 
 ```bash
-cd /home/mamunhossain/Projects/chaldal/Chaldal_AI_Multi_Agent_System
+cd /home/mamunhossain/Projects/recipe/recipe_AI_Multi_Agent_System
 source venv/bin/activate
 python backend/scripts/setup_complete_system.py
 ```
@@ -336,7 +336,7 @@ Happy shopping! 🎉
 
 ## 🎉 You're All Set!
 
-Your Chaldal AI Multi-Agent System is now:
+Your recipe AI Multi-Agent System is now:
 - ✅ Understanding customer queries naturally
 - ✅ Providing beautiful, engaging responses
 - ✅ Searching products with real inventory

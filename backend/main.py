@@ -12,7 +12,7 @@ from backend.agents.orchestrator import handle_request
 
 load_dotenv()
 
-app = FastAPI(title="Chaldal AI Multi-Agent System")
+app = FastAPI(title="recipe AI Multi-Agent System")
 
 # Configure CORS - Allow all origins for production
 app.add_middleware(
@@ -43,4 +43,4 @@ def chat_endpoint(request: ChatRequest):
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to Chaldal AI Backend"}
+    return {"message": "Welcome to recipe AI Backend"}

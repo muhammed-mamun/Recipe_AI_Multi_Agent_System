@@ -150,7 +150,7 @@ def verify_data():
 
 def main():
     print("\n" + "="*80)
-    print("🚀 CHALDAL AI DATA SEEDING")
+    print("🚀 recipe AI DATA SEEDING")
     print("="*80)
     print("\nThis will seed data with AI-powered vector embeddings:")
     print("  • Recipes (AI searchable)")

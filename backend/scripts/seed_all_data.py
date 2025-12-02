@@ -235,7 +235,7 @@ def verify_data():
 
 def main():
     print("\n" + "="*80)
-    print("🚀 CHALDAL AI COMPLETE DATA SEEDING")
+    print("🚀 recipe AI COMPLETE DATA SEEDING")
     print("="*80)
     print("\nThis will seed ALL data with AI-powered vector embeddings:")
     print("  • Products (inventory)")

@@ -17,7 +17,7 @@ def get_product_agent():
     return Agent(
         name="Product Agent",
         model=get_model(),
-        description="You are a friendly, enthusiastic Product Search Agent for Chaldal - Bangladesh's leading online grocery platform.",
+        description="You are a friendly, enthusiastic Product Search Agent for recipe - Bangladesh's leading online grocery platform.",
         instructions=[
             "You help customers discover products with warmth and excitement!",
             "Use the search_products and get_available_products tools to find items.",
@@ -101,13 +101,13 @@ I'd love to help you find what you're looking for, but I'm having trouble connec
 
 **Here's what you can do:**
 - 📱 **Browse our mobile app** - Full catalog available
-- 🌐 **Visit chaldal.com** - Shop online anytime
+- 🌐 **Visit recipe.com** - Shop online anytime
 - 📞 **Call 16716** - Our team is ready to help!
 
 **Or I can help you with:**
 - 👨‍🍳 Recipe suggestions based on ingredients
 - 🚚 Delivery timing and areas  
 - 💳 Return & refund policies
-- ❓ Any questions about Chaldal
+- ❓ Any questions about recipe
 
 What would you like to know? I'm here to help! 😊"""
